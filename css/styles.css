@@ -2,7 +2,8 @@
   font-size: 60px;
   font-style: italic;
   color: yellow;
-  background-image: url(../images/lets-play.jpg);
+  background-image: url(../images/hand-dice.jpg);
+  background-size:center;
 }
 
 h1 {
@@ -28,8 +29,8 @@ h1 {
 }
 
 body {
-  background-image: url(../images/hand-dice.jpg);
+  background-image: url(../images/lets-play.jpg);
   background-repeat: no-repeat;
   background-size: cover;
-  color: red;
+  color: #ff003e;
 }
