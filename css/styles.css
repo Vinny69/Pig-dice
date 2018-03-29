@@ -25,4 +25,18 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   color: #ff003e;
+  background-color: black;
+}
+li,h2{
+  color: white;
+}
+p{
+  font-size: 30px;
+  color: aqua;
+}
+h4{
+  color: white;
+}
+h3{
+  color: aqua;
 }
