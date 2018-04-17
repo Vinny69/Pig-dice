@@ -21,7 +21,7 @@ h1 {
 }
 
 body {
-  background-image: url(../images/lets-play.jpg);
+  /*background-image: url(../images/lets-play.jpg);*/
   background-repeat: no-repeat;
   background-size: cover;
   color: #ff003e;
