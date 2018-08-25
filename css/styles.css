@@ -14,6 +14,7 @@ h1 {
   padding: 0;
   margin: 0;
   height: 120px;
+  color: red;
 }
 
 #main {
@@ -21,8 +22,16 @@ h1 {
 }
 
 body {
-  background-image: url(../images/lets-play.jpg);
-  background-repeat: no-repeat;
-  background-size: cover;
-  color: #ff003e;
+background-color: black;
+}
+h2,h3,p,li{
+  color: white;
+}
+@media screen and (max-width: 650px) {
+  h1{
+    font-size: 25px;
+  }
+  h2{
+    font-size: 20px;
+  }
 }
